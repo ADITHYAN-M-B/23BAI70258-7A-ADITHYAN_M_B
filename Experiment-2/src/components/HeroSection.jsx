@@ -3,12 +3,13 @@ import { Typography, Button, Container } from '@mui/material';
 export default function HeroSection() {
   return (
     <Container sx={{ textAlign: 'center', mt: 8 }}>
-      <Typography variant="h3" gutterBottom>
-        Welcome to Experiment-2
-      </Typography>
-      <Typography variant="h6" gutterBottom>
-        This section is built using Material UI components.
-      </Typography>
+      <Typography variant="h3">
+  Hi, I'm Adithyan
+</Typography>
+<Typography variant="h6">
+  A Computer Science student passionate about Web Development
+</Typography>
+
       <Button variant="contained">Get Started</Button>
     </Container>
   );

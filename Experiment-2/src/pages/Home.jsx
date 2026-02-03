@@ -19,20 +19,20 @@ export default function Home() {
           <Row>
             <Col md={4}>
               <CardComponent
-                title="Fast"
-                description="Fast performance using modern UI."
+                title="React Development"
+                description="Experience in building UI using React, Bootstrap and MUI."
               />
             </Col>
             <Col md={4}>
               <CardComponent
-                title="Responsive"
-                description="Works on mobile and desktop screens."
+                title="Database Knowledge"
+                description="Experience working with SQL and DBMS projects."
               />
             </Col>
             <Col md={4}>
               <CardComponent
-                title="Simple"
-                description="Clean and minimal interface."
+                title="Database Knowledge"
+                description="Experience working with SQL and DBMS projects."
               />
             </Col>
           </Row>
@@ -42,17 +42,17 @@ export default function Home() {
           <Accordion>
             <Accordion.Item eventKey="0">
               <Accordion.Header>
-                What is this Experiment?
+                About Me
               </Accordion.Header>
               <Accordion.Body>
-                This page demonstrates usage of Bootstrap and MUI components.
+                I am a Computer Science student interested in full stack development.
               </Accordion.Body>
             </Accordion.Item>
 
             <Accordion.Item eventKey="1">
-              <Accordion.Header>Is this responsive?</Accordion.Header>
+              <Accordion.Header>My Goal</Accordion.Header>
               <Accordion.Body>
-                Yes. Bootstrap grid ensures responsive layout.
+                To become a skilled software developer and build impactful projects.
               </Accordion.Body>
             </Accordion.Item>
           </Accordion>

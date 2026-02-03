@@ -6,7 +6,7 @@ export default function CustomNavbar() {
   return (
     <Navbar bg="dark" variant="dark">
       <Container>
-        <Navbar.Brand href="#home">Experiment-2</Navbar.Brand> 
+        <Navbar.Brand href="#home">Portfolio</Navbar.Brand> 
         <Nav>
           <Nav.Link href="#home">Home</Nav.Link>
           <Nav.Link href="#features">Features</Nav.Link>

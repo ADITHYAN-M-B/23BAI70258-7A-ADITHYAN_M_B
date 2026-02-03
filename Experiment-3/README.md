@@ -1,7 +1,3 @@
-> **Extension of Modern Web Page using React Router**
-
-Here is the corrected README you should use.
-
 ---
 
 # 🚀 Experiment 3 — Extension of Modern Web Page using React Router

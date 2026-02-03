@@ -166,7 +166,7 @@ npm run dev
 ## 📸 Screenshots
 
 ```
-screenshots/
+screenshots//
  ├── screenshot_1.png
  └── screenshot_2.png
 ```

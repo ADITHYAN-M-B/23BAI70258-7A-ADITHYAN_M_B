@@ -35,7 +35,6 @@ src/main/java/com/example/experiment7/
 src/main/resources/
 ├── application.properties
 └── data.sql                            ← Preloaded users
-```
 
 src/screenshots/
 ├── Admin access admin endpoint.png
@@ -45,6 +44,8 @@ src/screenshots/
 ├── Public endpoint.png
 ├── User access user endpoint.png
 └── User login success.png
+```
+
 
 ---
 

@@ -1,0 +1,2 @@
+-- Users are seeded programmatically by DataLoader.java on startup.
+-- BCrypt encoding happens at runtime via PasswordEncoder — no hardcoded hashes needed.

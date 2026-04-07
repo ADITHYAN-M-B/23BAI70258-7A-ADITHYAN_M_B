@@ -1,0 +1,16 @@
+com\example\experiment7\controller\UserController.class
+com\example\experiment7\controller\AdminController.class
+com\example\experiment7\dto\LoginResponse$LoginResponseBuilder.class
+com\example\experiment7\controller\AuthController.class
+com\example\experiment7\entity\User.class
+com\example\experiment7\entity\Role.class
+com\example\experiment7\service\AuthService.class
+com\example\experiment7\config\SecurityConfig.class
+com\example\experiment7\dto\LoginResponse.class
+com\example\experiment7\controller\PublicController.class
+com\example\experiment7\repository\UserRepository.class
+com\example\experiment7\entity\User$UserBuilder.class
+com\example\experiment7\Experiment7Application.class
+com\example\experiment7\dto\LoginRequest.class
+com\example\experiment7\service\CustomUserDetailsService.class
+com\example\experiment7\config\DataLoader.class

@@ -81,8 +81,6 @@ Logout clears the session by removing the token from sessionStorage and redirect
 
 ## Required Screenshots
 
-Capture these screenshots after testing the frontend:
-
 1. Login from frontend (React UI)
 2. Token stored in sessionStorage (DevTools)
 3. Access protected API with data visible on the UI
@@ -144,19 +142,11 @@ mvn spring-boot:run
 
 ## Screenshot Folder
 
-Store screenshots in:
+screenshots stored in:
 
 ```text
-docs/screenshots/
+screenshots/
 ```
-
-Suggested filenames:
-
-- 01-login-success.png
-- 02-sessionstorage-token.png
-- 03-protected-data-visible.png
-- 04-unauthorized-redirect-login.png
-- 05-logout-success.png
 
 ## Notes
 

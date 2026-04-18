@@ -2,7 +2,7 @@
 
 This project demonstrates a full-stack **Role-Based Access Control (RBAC)** application built with a Spring Boot backend and a React frontend. The frontend authenticates with HTTP Basic Auth, stores the current session in `sessionStorage`, and changes the UI based on the logged-in user's role.
 
-## 📘 README Explanation
+## Explanation
 
 ### React frontend integrates RBAC backend
 The React frontend communicates directly with the Spring Boot backend to perform authentication and fetch protected data. The backend is the source of truth for authorization, while the frontend provides the user interface and route control for the logged-in role.

@@ -1,0 +1,13 @@
+# Java / Maven build output
+/target/
+*.class
+*.jar
+
+# React build output and dependencies
+/frontend/node_modules/
+/frontend/build/
+
+# OS / editor noise
+.DS_Store
+.vscode/
+.idea/
